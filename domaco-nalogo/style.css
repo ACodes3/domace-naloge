@@ -1,0 +1,48 @@
+
+p{
+    font-size: 12px;
+  }
+  .bg-primary{
+    background-color: #19ae7d !important;
+  }
+  .form-control {
+    height: 36px;
+    background: #fff;
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 14px;
+    border-radius: 2px;
+    box-shadow: none !important;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  .contactForm .form-control {
+    border: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 0;
+  }
+  
+  
+  .form-control:focus,.form-control:active {
+    border-color: #a1c6ba !important;
+  }
+  .form-label {
+    color: #000;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+  }
+  .btn.btn-primary {
+    background: #5fd0aa !important;
+    border-color: #30b689 !important;
+    color: #fff;
+    width: 100px;
+    border-radius: 0!important;
+    
+  }
+  .btn.btn-primary:hover{
+    background-color: #10db40!important;
+  }
+  
+  .bi{
+    font-size: 50px;
+  }
